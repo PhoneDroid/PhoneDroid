@@ -6,19 +6,19 @@
 [<img
     width = 120
     src = 'Assets/OmegaTools.png'
-/>][OmegaTools]                            
+/>][OmegaTools]                          
 [<img
     width = 120
     src = 'Assets/NativeMessaging.png'
-/>][NativeMessaging]                            
+/>][NativeMessaging]                          
 [<img
     width = 120
     src = 'Assets/ServedSpicy.png'
 />][ServedSpicy]
 
 **[OmegaTools]**                        **[NativeMessaging]**                        **[ServedSpicy]**<br>
- *Deno Modules*                        *WebExtension*                         *Spice Mixing* <br>
-*Communication* *Machines*
+ *Deno Modules*                           *WebExtension*                            *Spice Mixing* <br>
+                          *Communication*                            *Machines*
 
 </div>
 
