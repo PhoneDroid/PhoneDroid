@@ -17,8 +17,8 @@
 />][ServedSpicy]
 
 **[OmegaTools]**                        **[NativeMessaging]**                        **[ServedSpicy]**<br>
-*Deno Modules*                           *WebExtension*                              *Spice Mixing* <br>
-                                           *Communication*                            *Machines*
+*Deno Modules*                           *WebExtension*                                *Spice Mixing*   <br>
+                                           *Communication*                               *Machines*
 
 </div>
 
