@@ -6,11 +6,11 @@
 [<img
     width = 120
     src = 'Assets/OmegaTools.png'
-/>][OmegaTools]                                
+/>][OmegaTools]                            
 [<img
     width = 120
     src = 'Assets/NativeMessaging.png'
-/>][NativeMessaging]                                
+/>][NativeMessaging]                            
 [<img
     width = 120
     src = 'Assets/ServedSpicy.png'
