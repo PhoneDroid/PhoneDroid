@@ -6,32 +6,19 @@
 [<img
     width = 120
     src = 'Assets/OmegaTools.png'
-/>][OmegaTools]                          
+/>][OmegaTools]       
 [<img
     width = 120
     src = 'Assets/NativeMessaging.png'
-/>][NativeMessaging]                          
+/>][NativeMessaging]       
 [<img
     width = 120
     src = 'Assets/ServedSpicy.png'
-/>][ServedSpicy]
-
-**[OmegaTools]**                        **[NativeMessaging]**                        **[ServedSpicy]**<br>
-   *Deno Modules*                          *WebExtension*                               *Spice Mixing*     <br>
-                                            *Communication*                              *Machines* 
-
-<br>
-<br>
-<br>
-
+/>][ServedSpicy]       
 [<img
     width = 120
     src = 'Assets/OutLinked.png'
 />][OutLinked]
-
-**[OutLinked]**  
-*LinkedIn Recruiter*  
-*Advice & Resources*
 
 </div>
 
