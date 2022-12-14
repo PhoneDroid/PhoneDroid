@@ -14,12 +14,14 @@
 [<img
     width = 120
     src = 'Assets/ServedSpicy.png'
-/>][ServedSpicy]       
+/>][ServedSpicy]
+
+<br>
+
 [<img
     width = 120
     src = 'Assets/OutLinked.png'
-/>][OutLinked]
-
+/>][OutLinked]       
 [<img
     width = 120
     src = 'Assets/NativeMessaging.png'
