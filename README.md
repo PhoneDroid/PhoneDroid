@@ -24,6 +24,10 @@
 />][OutLinked]       
 [<img
     width = 120
+    src = 'Assets/OpenPrinters.png'
+/>][OpenPrinters]       
+[<img
+    width = 120
     src = 'Assets/NativeMessaging.png'
 />][NativeMessaging]
 
@@ -35,6 +39,7 @@
 <!----------------------------------------------------------------------------->
 
 [NativeMessaging]: https://github.com/NativeMessaging
+[OpenPrinters]: https://github.com/OpenPrinters
 [ServedSpicy]: https://github.com/ServedSpicy
 [OmegaTools]: https://github.com/OmegaTools
 [OutLinked]: https://github.com/OutLinked
