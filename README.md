@@ -31,10 +31,11 @@
 
 <br>
 
+<!--
 <div align = center >
     <a rel="me" href="https://mastodon.social/@Phonedroid">Mastodon</a>
 </div>
-
+-->
 
 <!----------------------------------------------------------------------------->
 
