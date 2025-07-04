@@ -24,8 +24,8 @@
 />][NativeMessaging]
 -->
 
-[<img height = 200 src = 'https://github.com/PhoneDroid/PhoneDroid/assets/73050054/0a34e4e2-71b2-4f42-b2b3-4b98eabb9de1' />][JSLess]       
-[<img height = 200 src = 'https://github.com/PhoneDroid/PhoneDroid/assets/73050054/3ee87858-76b4-4e15-a627-8b76482e5bee' />][Chibis]
+[<img width = 200 src = 'https://github.com/PhoneDroid/PhoneDroid/assets/73050054/0a34e4e2-71b2-4f42-b2b3-4b98eabb9de1' />][JSLess]       
+[<img width = 450 src = 'https://github.com/PhoneDroid/PhoneDroid/assets/73050054/3ee87858-76b4-4e15-a627-8b76482e5bee' />][Chibis]
 
 </div>
 
